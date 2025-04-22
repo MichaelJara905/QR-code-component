@@ -1,5 +1,5 @@
 # 💡 Frontend Mentor - QR Code Component 
-This is a solution to the [https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H]. It’s a simple project focused on practicing HTML and CSS fundamentals by building a responsive card component that displays a QR code.
+This is a solution to the [QR Code Component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). It’s a simple project focused on practicing HTML and CSS fundamentals by building a responsive card component that displays a QR code.
 
 
 ## 📌 Overview
