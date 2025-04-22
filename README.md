@@ -15,9 +15,8 @@ In this project, I recreated a clean and responsive QR code component using sema
 
 
 ## 🌐 Live Preview
-- 🔗 **Live Site**: [https://michaeljara905.github.io/QR-code-component/]
-- 💻 **Source Code**: [https://github.com/MichaelJara905/QR-code-component.git]
-
+- 🔗 **Live Site**: [https://michaeljara905.github.io/QR-code-component/](https://michaeljara905.github.io/QR-code-component/)
+- 💻 **Source Code**: [https://github.com/MichaelJara905/QR-code-component.git](https://github.com/MichaelJara905/QR-code-component.git)
 
 ## 🛠️ Tech Stack
 - Semantic HTML5 markup
