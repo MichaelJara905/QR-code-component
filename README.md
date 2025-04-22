@@ -25,28 +25,28 @@ Esta es una solución al [desafío del componente de código QR en Frontend Ment
 
 ### Lo que aprendí
 
-@media (max-width:500px) {
+    @media (max-width:500px) {
 
-    .contenedor-principal {
+        .contenedor-principal {
 
-        border-radius: 10px;
-        width: 20rem;
-        background-color: rgb(255, 255, 255);
-    }
-    
-    .title{
+            border-radius: 10px;
+            width: 20rem;
+            background-color: rgb(255, 255, 255);
+        }
         
-        text-align: center;
-        font-size: 23px;
-        
+        .title{
+            
+            text-align: center;
+            font-size: 23px;
+            
+        }
+
+        .attribution {
+
+            font-size: 12px;
+        }
+
     }
-
-    .attribution {
-
-        font-size: 12px;
-    }
-
-}
 
 Aprendi a utilizar  media queris para el diseño responsive.
 
